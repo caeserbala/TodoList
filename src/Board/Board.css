@@ -1,0 +1,18 @@
+.boardContainer {
+    margin: 20px 20px;
+ }
+
+ .listGroupContaier {
+     display: flex;
+ }
+
+ .boardDetails {
+     display: flex;
+ }
+
+
+ .addButton {
+    display: block;
+    height: 5rem;
+    width: 5rem;
+ }
