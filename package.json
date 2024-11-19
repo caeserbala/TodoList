@@ -15,7 +15,7 @@
     "@types/react-dom": "^16.9.8",
     "bootstrap": "^5.0.0-alpha1",
     "bootstrap-icons": "^1.0.0-alpha5",
-    "firebase": "^7.15.4",
+    "firebase": "^10.9.0",
     "font-awesome-icons": "^1.6.0",
     "git": "^0.1.5",
     "react": "^16.13.1",
